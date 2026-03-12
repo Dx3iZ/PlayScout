@@ -1,3 +1,6 @@
+
+<img width="1439" height="771" alt="Screenshot_4" src="https://github.com/user-attachments/assets/1075d760-cb0a-41bf-90f3-2b627a283f11" />
+
 # PlayCount (PlayScout)
 
 Next.js + React + TypeScript uygulaması. Oyun arama, filtreleme, favorilere ekleme/yönetme ve oyun detayları için dialog tabanlı modal özelliği sunar.
